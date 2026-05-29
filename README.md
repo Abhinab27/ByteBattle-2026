@@ -14,8 +14,8 @@ ByteBattle 2026 is a national-level coding challenge hosted by NIT Silchar, brin
 - HTML
 - CSS
 - JavaScript
-- React (if used)
-- Tailwind CSS (if used)
+- nextjs
+- Tailwind CSS 
 
 ## About
 ByteBattle 2026 serves as a platform for innovation, collaboration, and impactful problem-solving, providing participants with opportunities to work on industry-aligned challenges and emerging technologies.
